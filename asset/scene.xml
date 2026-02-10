@@ -1,0 +1,4 @@
+<mujoco model="canine_scene">
+    <include file="floor_white_gray.xml"/>
+    <include file="canine.xml"/>
+</mujoco>

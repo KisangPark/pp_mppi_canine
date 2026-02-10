@@ -1,0 +1,8 @@
+<mujoco model="attached_camera">
+    <camera name="follow"
+        mode="track"
+        target="base_link"
+        distance="3"
+        azimuth="90"
+        elevation="-20"/>
+</mujoco>
