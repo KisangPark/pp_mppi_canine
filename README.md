@@ -1,7 +1,7 @@
 # MuJoCo MPPI Control
 
 #### Hardware
-- Canine from Openpath Robotics: https://github.com/PNUxCAMEL/camel-canine-middleware.git
+- Canine from Openpath Robotics: https://github.com/PNUxCAMEL/camel-canine-mujoco.git 
 
 ### Notebooks
 
